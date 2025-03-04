@@ -1,0 +1,12 @@
+# Ignore virtual environments
+ggs_venv/
+venv/
+.Venv/
+env/
+.Env/
+data/
+.data/
+deployment/
+.deployment/
+models/
+.models/
